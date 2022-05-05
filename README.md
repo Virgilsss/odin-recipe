@@ -1,1 +1,2 @@
 # odin-recipe
+day is 5/1/2022 in this project it is goin to be a recipe website so far i have learned how to use images, absoulte links( links to other webpages) and relative links (links to things that are somewhere in the files). my goal for this prject is to create 2 webpages and on both pages to have a picture for each recipe and a absoulte link to other websites
