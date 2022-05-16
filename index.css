@@ -1,5 +1,6 @@
 body{
-    animation: 10000ms ease-in-out infinite color-change ;
+    animation: 100000ms ease-in-out infinite color-change ;
+    
 
 }
 @keyframes color-change{
@@ -7,7 +8,7 @@ body{
         background-color: teal;
     }
     20%{
-        background-color: gold;
+        background-color: rgb(12, 66, 146);
     }
     40%{background-color: indianred;}
     60%{background-color: violet;}
@@ -15,3 +16,18 @@ body{
     100%{background-color: teal;}
 }
 
+button{
+    border-radius: 13px;
+    background-color: black;
+    font-weight: bolder;
+
+    
+    
+}
+
+img{
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px;
+    width: 160px;
+}
